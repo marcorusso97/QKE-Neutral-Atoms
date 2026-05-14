@@ -1,4 +1,4 @@
-# NeutralVQE Notebook
+# QKE with Neutral Atoms (IEEE QCE 2023, Seattle, WA)
 
 The notebook contains the Python code for reproducing the experiment discussed in the paper [Quantum Kernel Estimation With Neutral Atoms For Supervised Classification: A Gate-Based Approach](https://ieeexplore.ieee.org/abstract/document/10313769).
 
